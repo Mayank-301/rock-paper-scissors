@@ -31,7 +31,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/Mayank-301/rock-paper-scissors.git
 
 # Navigate to the project directory
 cd rock-paper-scissors
