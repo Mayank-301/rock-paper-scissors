@@ -20,10 +20,10 @@ A simple and fun *Rock-Paper-Scissors* game built using *HTML, CSS, and JavaScri
 
 ## 📂 Tech Stack
 
-- *HTML5*
-- *CSS3*
-- *JavaScript *
-- *Firebase Hosting*
+- HTML5
+- CSS3
+- JavaScript
+- Firebase Hosting
 
 ## 🚀 Getting Started
 
