@@ -8,7 +8,7 @@ A simple and fun *Rock-Paper-Scissors* game built using *HTML, CSS, and JavaScri
 
 ## 📸 Preview
 
-![Game Screenshot]("RPS/public/Screenshot.png")
+![Game Screenshot]("C:\Users\mayan\OneDrive\Desktop\RPS\public\Screenshot.png")
 
 ## 🛠 Features
 
